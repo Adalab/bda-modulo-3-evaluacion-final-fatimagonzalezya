@@ -13,7 +13,7 @@ Customer Flight Activity.csv → Datos sobre vuelos reservados, distancia recorr
 
 Customer Loyalty History.csv → Información personal y de fidelización de los clientes, incluyendo nivel educativo, ingresos y estado civil.
 
-notebook.ipynb → Notebook con el análisis y las visualizaciones.
+evaluacion-final-fatimagonzalezya.ipynb → Notebook con el análisis y las visualizaciones.
 
 README.md → Documentación del proyecto.
 
@@ -78,4 +78,4 @@ La estadística inferencial confirmó que el nivel educativo afecta la cantidad 
 Autora
 
 Fatima González
-Este análisis ha sido realizado como parte del curso de Data Analyst en Adalab.
+Este análisis ha sido realizado como parte del fin de módulo 3 del curso de Data Analyst en Adalab (promo-c)
